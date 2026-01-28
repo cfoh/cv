@@ -15,10 +15,12 @@ He is on the editorial boards of several international journals and a Senior Edi
 
 The following is the list. The value is the amount to the university which is a fraction of the the total project funding.
 
-- 2026, Co-I, [to be announcement], ESA, £200k
-- 2026, Co-I, [to be announcement], DIA Open Challenge Fund, £70k 
-- 2025, Co-I, ORAN-WIN-X, 6 months, EPSRC/DSIT, £150k
-- 2024, Co-I, ORAN-TWIN, 9 months, EPSRC/DSIT, £150k
+- 2026, Co-I, [to be announced], ESA/UKSA's ARTES Call 2 (AI for Satcom call), £200k
+- 2026, Co-I, [to be announced], DIA Open Challenge Fund, €60k 
+- 2025, Co-I, ORAN-WIN-X, 6 months, EPSRC/DSIT Cheddar Hub, £150k
+  - https://cheddarhub.org/
+- 2024, Co-I, ORAN-TWIN, 9 months, EPSRC/DSIT Cheddar Hub, £150k
+  - https://cheddarhub.org/
 - 2024, PI, 6G-SMART, 3 years, EU EUREKA CELTIC-NEXT, £600k
   - https://www.celticnext.eu/project-6g-smart/
 - 2024, Co-I, Advancing Dynamic Response in O-RAN networks: Deep RL and DT Integration, 6 months, DSTL (UK Defence), £160k
