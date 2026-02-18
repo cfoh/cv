@@ -21,7 +21,7 @@ The following is the list. The value is the amount to the university which is a 
   - https://cheddarhub.org/
 - 2024, Co-I, ORAN-TWIN, 9 months, EPSRC/DSIT Cheddar Hub, £150k
   - https://cheddarhub.org/
-- 2024, PI, 6G-SMART, 3 years, EU EUREKA CELTIC-NEXT, £600k
+- 2024, PI and Consortium Lead, 6G-SMART, 3 years, EU EUREKA CELTIC-NEXT, £600k
   - https://www.celticnext.eu/project-6g-smart/
 - 2024, Co-I, Advancing Dynamic Response in O-RAN networks: Deep RL and DT Integration, 6 months, DSTL (UK Defence), £160k
 - 2023, Co-I, Cell-Free Massive MIMO for Future Wireless Networks, 3 years, EPSRC, £500k
