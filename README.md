@@ -15,7 +15,7 @@ He is currently a member of VTS Education Committee, and is on the editorial boa
 
 The following is the list. The value is the amount to the university which is a fraction of the the total project funding.
 
-- 2026, Co-I, [to be announced], ESA/UKSA's ARTES Call 2 (AI for Satcom call), £200k
+- 2026, Co-I, Lazarus, ESA/UKSA's ARTES Call 2 (AI for Satcom call), £200k
 - 2026, Co-I, [to be announced], DIA Open Challenge Fund, €60k 
 - 2025, Co-I, ORAN-WIN-X, 6 months, EPSRC/DSIT Cheddar Hub, £150k
   - https://cheddarhub.org/
