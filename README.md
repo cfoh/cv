@@ -7,7 +7,7 @@ He has authored or coauthored more than 200 refereed papers in international jou
 His research interests include protocol design, machine learning and AI applications, AI-RAN, and performance analysis of advanced networks. 
 He served as the Vice Chair (Europe/Africa) for IEEE TCGCC from 2015 to 2017, 
 and the Vice Chair of the IEEE VTS Ad Hoc Committee on Mission Critical Communications from 2022 to 2024. 
-He is on the editorial boards of several international journals and a Senior Editor for IEEE Access.
+He is currently a member of VTS Education Committee, and is on the editorial boards of several international journals and a Senior Editor for IEEE Access.
 
 <img width="150" height="150" alt="ch_foh1200" src="https://github.com/user-attachments/assets/3e514048-ecb0-4634-8c04-76986e120406" />
 
