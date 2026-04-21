@@ -15,23 +15,21 @@ He is currently a member of VTS Education Committee, and is on the editorial boa
 
 The following is the list. The value is the amount to the university which is a fraction of the the total project funding.
 
-- 2026, Co-I, Lazarus, ESA/UKSA's ARTES Call 2 (AI for Satcom call), £200k
-- 2026, Co-I, EPD-Aware Prefill-Centric Traffic Slicing for Multimodal LLM Inference, 6 months, DIA Open Challenge Fund, €60k 
-- 2025, Co-I, ORAN-WIN-X, 6 months, EPSRC/DSIT Cheddar Hub, £150k
+- 2026, Co-I, "Lazarus", ESA/UKSA's ARTES Call 2 (AI for Satcom call), £200k
+- 2026, Co-I, "EPD-Aware Prefill-Centric Traffic Slicing for Multimodal LLM Inference", 6 months, DIA Open Challenge Fund, €60k 
+- 2025, Co-I, "ORAN-WIN-X", 6 months, EPSRC/DSIT Cheddar Hub, £150k
   - https://cheddarhub.org/
-- 2024, Co-I, ORAN-TWIN, 9 months, EPSRC/DSIT Cheddar Hub, £150k
+- 2024, Co-I, "ORAN-TWIN", 9 months, EPSRC/DSIT Cheddar Hub, £150k
   - https://cheddarhub.org/
-- 2024, PI and Consortium Lead, 6G-SMART, 3 years, EU EUREKA CELTIC-NEXT, £600k
+- 2024, PI and Consortium Lead, "6G-SMART", 3 years, EU EUREKA CELTIC-NEXT, £600k
   - https://www.celticnext.eu/project-6g-smart/
-- 2024, Co-I, Advancing Dynamic Response in O-RAN networks: Deep RL and DT Integration, 6 months, DSTL (UK Defence), £160k
-- 2023, Co-I, Cell-Free Massive MIMO for Future Wireless Networks, 3 years, EPSRC, £500k
+- 2024, Co-I, "Advancing Dynamic Response in O-RAN networks: Deep RL and DT Integration", 6 months, DSTL (UK Defence), £160k
+- 2023, Co-I, "Cell-Free Massive MIMO for Future Wireless Networks", 3 years, EPSRC, £500k
   - https://gtr.ukri.org/projects?ref=EP%2FX013162%2F1
-- 2023, Co-I, TUDOR: Towards Ubiquitous 3D Open and Resilient Network, 2 years, DCMS (UK Government) Future Open Networks Research Challenge, £5.3m
+- 2023, Co-I, "TUDOR: Towards Ubiquitous 3D Open and Resilient Network", 2 years, DCMS (UK Government) Future Open Networks Research Challenge, £5.3m
   - https://uktin.net/navigate-uk-telecoms/government-funded-projects/tudor
-- 2023, PI, TraceV2X, 4 years, EU MSCA-SE, £75k
+- 2023, PI, "TraceV2X", 4 years, EU MSCA-SE, £75k
   - https://gtr.ukri.org/projects?ref=EP%2FY036638%2F1
-- 2023, Co-I, HiperRAN, 1.5 years, DSIT (UK Government) Open Networks Ecosystem Competition, £2.9m
+- 2023, Co-I, "HiperRAN", 1.5 years, DSIT (UK Government) Open Networks Ecosystem Competition, £2.9m
   - https://uktin.net/HiPer-RAN
-
-
 
