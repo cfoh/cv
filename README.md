@@ -33,3 +33,14 @@ The following is the list. The value is the amount to the university which is a 
 - 2023, Co-I, "HiperRAN", 1.5 years, DSIT (UK Government) Open Networks Ecosystem Competition, £2.9m
   - https://uktin.net/HiPer-RAN
 
+## Main Roles in Research Communities
+- Member for IEEE VTS Education Committee (https://vtsociety.org/committee/education-committee)
+- Vice-Chair (Academic) for IEEE VTS Technical Committee on Mission Critical Communications from 2023 to 2025 (https://vtsociety.org/committee/committee-mission-critical-communications).
+- Vice Chair (Europe/Africa) for IEEE TCGCC from 2015 to 2017 (https://tcgcc.committees.comsoc.org/officers/)
+- IEEE ICC Symposium Chair for Selected Areas in Communications – Big Data (https://icc2023.ieee-icc.org/authors/call-symposium-papers)
+-
+
+## Best Paper Awards
+- Wenfeng Shi, Deyun Gao, Huachun Zhou, Qi Xu, and Chuan Heng Foh received the IEEE GLOBECOM 2017 best paper award for their paper "Traffic Aware Inter-Layer Contact Selection for Multi-Layer Satellite Terrestrial Network".
+- Abdulkadir Kose, Chuan Heng Foh, Haeyoung Lee and Klaus Moessner received the ICTC 2021 best paper award for their paper "Profiling Vehicles for Improved Small Cell Beam-Vehicle Pairing Using Multi-Armed Bandit".
+- 
