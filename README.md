@@ -38,7 +38,11 @@ The following is the list. The value is the amount to the university which is a 
 - Vice-Chair (Academic) for IEEE VTS Technical Committee on Mission Critical Communications from 2023 to 2025 (https://vtsociety.org/committee/committee-mission-critical-communications).
 - Vice Chair (Europe/Africa) for IEEE TCGCC from 2015 to 2017 (https://tcgcc.committees.comsoc.org/officers/)
 - IEEE ICC Symposium Chair for Selected Areas in Communications – Big Data (https://icc2023.ieee-icc.org/authors/call-symposium-papers)
--
+- Founder and steering member of “Workshop on Data Driven Intelligence for Networks and Systems (DDINS)”, organized in IEEE ICC 2019 (1st edition), Infocom 2020 (2nd edition), ICC 2021-2025 (3rd-7th editions) (https://ddinsws.wordpress.com/)
+- Demo/Posters co-chair for IEEE INFOCOM 2025 (https://infocom2025.ieee-infocom.org/committees/organizing-committee)
+- Keynote/Panel co-chair for the 6G Metaverse workshop (Emerging Metaverse and 6G Massive/Immersive Communications) (https://infocom2025.ieee-infocom.org/second-workshop-emerging-metaverse-and-6g-massiveimmersive-communications-6g-metaverse-program?utm_source=chatgpt.com)
+- Demo/Posters co-chair for IEEE FINE 2026 (https://www.ieee-fine.org/2026/organization.php)
+
 
 ## Best Paper Awards
 - Wenfeng Shi, Deyun Gao, Huachun Zhou, Qi Xu, and Chuan Heng Foh received the IEEE GLOBECOM 2017 best paper award for their paper "Traffic Aware Inter-Layer Contact Selection for Multi-Layer Satellite Terrestrial Network".
