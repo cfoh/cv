@@ -17,7 +17,8 @@ The following is the list. The value is the amount to the university which is a 
 
 - 2026, Co-I, "AESTRAM", Innovate-UK, 2 years, £1.3m
 - 2026, Co-I, "Lazarus", ESA/UKSA's ARTES Call 2 (AI for Satcom call), £200k
-- 2026, Co-I, "EPD-Aware Prefill-Centric Traffic Slicing for Multimodal LLM Inference", 6 months, DIA Open Challenge Fund, €60k 
+- 2026, Co-I, "EPD-Aware Prefill-Centric Traffic Slicing for Multimodal LLM Inference", 6 months, DIA Open Challenge Fund, €60k
+  - https://datacom-ia.eu/dia-open-challenge-fund/ocf-current-projects/ (second project, PI: Dr Mohammad Shojafar)
 - 2025, Co-I, "ORAN-WIN-X", 6 months, EPSRC/DSIT Cheddar Hub, £56k
   - https://cheddarhub.org/
 - 2024, Co-I, "ORAN-TWIN", 9 months, EPSRC/DSIT Cheddar Hub, £150k
