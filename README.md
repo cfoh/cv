@@ -11,6 +11,9 @@ He is currently a member of VTS Education Committee, and is on the editorial boa
 
 <img width="150" height="150" alt="ch_foh1200" src="https://github.com/user-attachments/assets/3e514048-ecb0-4634-8c04-76986e120406" />
 
+## Social network
+- https://www.linkedin.com/in/chuan-heng-foh-18658746
+
 ## Recent Funded Projects 
 
 The following is the list. The value is the amount to the university which is a fraction of the the total project funding.
@@ -38,6 +41,7 @@ The following is the list. The value is the amount to the university which is a 
 
 ## Main Roles in Research Communities
 - Member for IEEE VTS Education Committee (https://vtsociety.org/committee/education-committee)
+- Technical Working Group (TWG) Coordinator for IEEE Next-Generation Networking and Internet Technical Committee (NGNI-TC) (https://ngni.committees.comsoc.org/officers/)
 - Vice-Chair (Academic) for IEEE VTS Technical Committee on Mission Critical Communications from 2023 to 2025 (https://vtsociety.org/committee/committee-mission-critical-communications).
 - Vice Chair (Europe/Africa) for IEEE TCGCC from 2015 to 2017 (https://tcgcc.committees.comsoc.org/officers/)
 - IEEE ICC Symposium Chair for Selected Areas in Communications – Big Data (https://icc2023.ieee-icc.org/authors/call-symposium-papers)
